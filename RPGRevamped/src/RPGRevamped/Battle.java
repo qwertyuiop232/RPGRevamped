@@ -1,6 +1,8 @@
 package RPGRevamped;
 import java.util.Random;
-
+/**
+* 
+**/
 public class Battle {
 	
 	Random rand = new Random();
